@@ -1,2 +1,3 @@
-# stargazer_eureka
-A website
+# stargazer_web
+Source code for a website(hopefully)
+
